@@ -16,10 +16,10 @@
 
 ## Help
 
-1)- Create MySql database wich contains user table holding the informations described above.
-2)- Create index.php page which will display all the users data on the database table.
-3)- Create a link button to add new user.
-4)- When new user is added, we should be redirected to index page when we should find the last user added on the table. 
+- Create MySql database wich contains user table holding the informations described above.
+- Create index.php page which will display all the users data on the database table.
+- Create a link button to add new user.
+- When new user is added, we should be redirected to index page when we should find the last user added on the table. 
 
 ## Assessment Criteria
 
